@@ -48,21 +48,6 @@ _Remote_
 - Built-in tools: **code editor**, **video calling**, **whiteboard**, and **identity verification**  
 - Delivered performance reports post-interview with AI analysis
 
----
-
-### **E-commerce Platform** | MERN Stack  
-📎 [Project Link](#)  
-- Integrated **secure payments**, **user authentication**, and **session management**  
-- Ensured performance using **MongoDB** optimizations
-
----
-
-### **MLSC Club Website** | React + Firebase  
-📎 [Project Link](#)  
-- Added features like **event registration**, **resource sharing**, and **team showcase**  
-- Built with **clean component architecture** and high maintainability standards
-
----
 
 ## 🛠️ Technical Skills
 
